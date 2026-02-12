@@ -1,169 +1,123 @@
 path,full_path,size,modified_time,md5_checksum,is_folder
-components,C:\Users\dylan\Documents\CacheCAD\CAD\components,0,1763845201.352665,,1
-COTS,C:\Users\dylan\Documents\CacheCAD\CAD\COTS,0,1769041184.3049996,,1
-legacy,C:\Users\dylan\Documents\CacheCAD\CAD\legacy,0,1762637236.2546272,,1
-master,C:\Users\dylan\Documents\CacheCAD\CAD\master,0,1762386376.9133058,,1
-components\claw,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw,0,1762386375.8038783,,1
-components\elbow,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow,0,1763845194.4940536,,1
-components\shoulder,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder,0,1762641995.6583486,,1
-COTS\fastners,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\fastners,0,1762386469.6620994,,1
-legacy\old claw,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw,0,1762637254.9372132,,1
-components\claw\V1.0,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0,0,1762637237.2067366,,1
-components\elbow\V1.0,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0,0,1762637320.6215067,,1
-components\shoulder\V1.0,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0,0,1763586678.4020853,,1
-components\shoulder\V2.0,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V2.0,0,1762988845.3889961,,1
-components\elbow\V1.0\assm,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\assm,0,1762992721.1697204,,1
-components\elbow\V1.0\parts,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts,0,1769041182.5124662,,1
-components\shoulder\V1.0\assm,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm,0,1763586678.397085,,1
-components\shoulder\V1.0\equations,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\equations,0,1762637369.118647,,1
-components\shoulder\V1.0\parts,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts,0,1763693477.4630005,,1
-components\shoulder\V1.0\parts\fastners,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\fastners,0,1762637366.6104653,,1
-COTS\1611-0514-4008.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\1611-0514-4008.STEP,225064,1763595040.6296475,149a9a8f1ad098ec08dba98260dae135,0
-"COTS\2910 Series Aluminum Clamping Collar (8mm REX™ ID x 20mm OD, 9mm Length).SLDASM","C:\Users\dylan\Documents\CacheCAD\CAD\COTS\2910 Series Aluminum Clamping Collar (8mm REX™ ID x 20mm OD, 9mm Length).SLDASM",1009376,1763846206.4786363,bd5412661582bf0324b5b04705c0e7fc,0
-COTS\34E1K-120.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\34E1K-120.STEP,7980467,1761426213.3682978,ed9cf37dc69af0bac7a0e1177fdeea0f,0
-COTS\34E1K-45.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\34E1K-45.STEP,7950001,1762032437.2088861,78eb911c8de84bc21544773f60d343d5,0
-COTS\5972K217_Ball Bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\5972K217_Ball Bearing.SLDPRT,1754414,1762639960.4915805,5df7b807e59cb4b638a9fe4e74ef8429,0
-COTS\5972K3_Ball Bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\5972K3_Ball Bearing.SLDPRT,1634359,1762714883.1342201,b5421caba4a08d77f1b084a73ce2c5c0,0
-COTS\6383K227_Ball Bearing.step.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\6383K227_Ball Bearing.step.SLDPRT,1624111,1762637236.8709404,1d1996a10fdc6ac8a609e0c5941d3675,0
-"COTS\8mm REX™ Shaft with E-Clip (Stainless Steel, 192mm Length).SLDASM","C:\Users\dylan\Documents\CacheCAD\CAD\COTS\8mm REX™ Shaft with E-Clip (Stainless Steel, 192mm Length).SLDASM",849754,1763845437.4075668,3e5b24643013f962794ea1245aeb4bd4,0
-"COTS\8mm REX™ Shaft with E-Clip (Stainless Steel, 54mm Length).SLDASM","C:\Users\dylan\Documents\CacheCAD\CAD\COTS\8mm REX™ Shaft with E-Clip (Stainless Steel, 54mm Length).SLDASM",1130888,1763845116.7458107,8246463c0f485a866b7dd08f243d7f53,0
-COTS\carbonfiber_1_2.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\carbonfiber_1_2.SLDPRT,162441,1762989423.2061143,6425881a297d5f51d4f7d1b0aa1a4d55,0
-COTS\EG34-G10.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\EG34-G10.STEP,2261575,1761427232.05609,ef4dd62a349485b1ea47f66ef56a083d,0
-COTS\nema_34_gearbox_key.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\nema_34_gearbox_key.SLDPRT,61872,1762641997.3769612,6f4f4ef9d2948ecac8d60b850bde195a,0
-COTS\nema_bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\nema_bracket.SLDPRT,303735,1762030117.5174499,cd0ed7130cc1a188ba0516b07854b61e,0
-COTS\NEO550MiniMotor.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\NEO550MiniMotor.SLDPRT,801423,1762637236.273702,5388b3e7790943370e0ad1dddc014f4e,0
-COTS\parts_name.txt,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\parts_name.txt,45,1762386648.877905,583f6aaac097d0f137427306c01a986a,0
-COTS\WCP-0739.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\WCP-0739.SLDPRT,334069,1762637237.6542797,c2b8d0b16410c27938f71f7c270b1d44,0
-COTS\WCP-0747.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\WCP-0747.SLDPRT,644805,1762637238.9718406,40d4964a64898ac2911f173b93e4d8fc,0
-legacy\New Text Document.txt,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\New Text Document.txt,0,1762386375.8478756,d41d8cd98f00b204e9800998ecf8427e,0
-master\New Text Document.txt,C:\Users\dylan\Documents\CacheCAD\CAD\master\New Text Document.txt,0,1762386375.8368802,d41d8cd98f00b204e9800998ecf8427e,0
-components\claw\V1.0\CornellClawAssem.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\CornellClawAssem.SLDASM,2144288,1762637237.17674,957b525e3e34c57fa87dcb946e71c2e3,0
-components\claw\V1.0\CornellClawSketch.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\CornellClawSketch.SLDPRT,177333,1762637236.279701,4cb11f8a6ff4fe1325befb5a40b6946f,0
-components\claw\V1.0\GrabberBlock.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\GrabberBlock.SLDPRT,143695,1762637236.3537028,1a56f37d4f085de925d363f9248e9045,0
-components\claw\V1.0\New Text Document.txt,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\New Text Document.txt,0,1762386375.8208747,d41d8cd98f00b204e9800998ecf8427e,0
-components\claw\V1.0\SpokeLong.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\SpokeLong.SLDPRT,128406,1762637236.0831017,d06aed0bdb1afe81410adb0b18222292,0
-components\claw\V1.0\SpokeShort.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\SpokeShort.SLDPRT,130961,1762637236.222617,5a2204296d7c313cb9d6b5c335014d0c,0
-components\claw\V1.0\TorqueShaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\claw\V1.0\TorqueShaft.SLDPRT,130087,1762637236.1370993,28e1588f9cc72f2a951a5db69ac8ea60,0
-components\elbow\V1.0\New Text Document.txt,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\New Text Document.txt,0,1762386375.8528738,d41d8cd98f00b204e9800998ecf8427e,0
-components\elbow\V1.0\assm\elbow_cam_assm.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\assm\elbow_cam_assm.SLDASM,164681,1762989646.6592963,bcfe33f6ab8c2256756a213e9077a1db,0
-components\elbow\V1.0\assm\elbow_nema_gearbox_bracket.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\assm\elbow_nema_gearbox_bracket.SLDASM,5294807,1762381554.8033242,4266baa5a3df8ae47846a837154fb110,0
-components\elbow\V1.0\parts\34E1K-45.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\34E1K-45.STEP,7950001,1762032437.2088861,78eb911c8de84bc21544773f60d343d5,0
-components\elbow\V1.0\parts\elbow_ball_bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_ball_bearing.SLDPRT,2797899,1762382378.8863866,3b8b517f70ebe81441bbfab7ee50ff4c,0
-components\elbow\V1.0\parts\elbow_bearing_mount.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_bearing_mount.SLDPRT,90342,1762383236.737504,ad68f941b03f6126cfc7c856846230b9,0
-components\elbow\V1.0\parts\elbow_cam_joint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_cam_joint.SLDPRT,128729,1762382548.1799886,787dbb1bb082c77425ad3f4eac2c1e73,0
-components\elbow\V1.0\parts\elbow_cam_roughsketch.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_cam_roughsketch.SLDPRT,63953,1762384635.9295428,67f7e279ae15419ca876e00603ea9dab,0
-components\elbow\V1.0\parts\elbow_key_extender.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_key_extender.SLDPRT,88073,1762381547.1668334,79b0c1c46a73e5b89a82a0341f475230,0
-components\elbow\V1.0\parts\elbow_nema34_4.5.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_nema34_4.5.SLDPRT,4558469,1762032497.3696363,367c3c543f36f05aeecf00d235353d57,0
-components\elbow\V1.0\parts\elbow_nema_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_nema_gearbox.SLDASM,1816433,1762381554.510701,3d87c47062f2dd0fd45d4009b09232b8,0
-components\elbow\V1.0\parts\elbow_nema_gearbox.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_nema_gearbox.STEP,2261575,1762032799.398843,ef4dd62a349485b1ea47f66ef56a083d,0
-components\elbow\V1.0\parts\elbow_newcam_jointA.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointA.SLDPRT,126131,1762989433.928468,e0b52a6cdbff5e99506919918b4d2d13,0
-components\elbow\V1.0\parts\elbow_newcam_jointB.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointB.SLDPRT,122392,1762981600.9023538,34891aedd7925e120f9d4313d23ee68a,0
-components\elbow\V1.0\parts\elbow_newcam_jointC.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointC.SLDPRT,113660,1762981686.8723967,3de45875d562ab39accf531c12a12b0b,0
-components\elbow\V1.0\parts\elbow_newcam_jointD.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointD.SLDPRT,97501,1763596409.819638,9218db4343dcc1ab81a57faf33f22e6e,0
-components\elbow\V1.0\parts\elbow_newcam_jointD_forcam.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointD_forcam.SLDPRT,125288,1763597505.29067,d02e3967bfc198cd241123a6b07991b6,0
-components\elbow\V1.0\parts\elbow_newcam_jointE.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointE.SLDPRT,109678,1763844505.3206177,d2e34b3d57d187d542d3bd608ec8922d,0
-components\elbow\V1.0\parts\elbow_newcam_jointF.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_newcam_jointF.SLDPRT,87258,1763844601.1816244,e7143022fbb15c99e994aee37c50a6a6,0
-components\elbow\V1.0\parts\elbow_shaft_sleeve.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\elbow_shaft_sleeve.SLDPRT,87182,1762639994.0843582,741d4480b62b19dc2c19baba2003a38e,0
-components\elbow\V1.0\parts\nema_bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\elbow\V1.0\parts\nema_bracket.SLDPRT,298767,1762031171.494006,4559f2ce97af31c90d32cd3d3d19c598,0
-components\shoulder\V1.0\base_shoulder_elbow.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\base_shoulder_elbow.SLDASM,11415998,1762385574.1740904,b0214c66f7e2b3669e466b8f949d7708,0
-components\shoulder\V1.0\New Text Document.txt,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\New Text Document.txt,0,1762386375.8538735,d41d8cd98f00b204e9800998ecf8427e,0
-components\shoulder\V2.0\assm.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V2.0\assm.SLDASM,13080634,1762980755.9772434,3014b67477f6d5288e9933437aa1bf66,0
-components\shoulder\V2.0\sholder_shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V2.0\sholder_shaft.SLDPRT,130717,1762980755.3170238,6a2629fbad9344c726b89b6eed4da466,0
-components\shoulder\V1.0\assm\nema_with_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm\nema_with_gearbox.SLDASM,6934936,1762031055.3478436,32d4198f4b2bcb96d3377d4642c6e6c7,0
-components\shoulder\V1.0\assm\shoulder_keyhole_prototype.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm\shoulder_keyhole_prototype.SLDPRT,94957,1762037205.1998866,7348ec67f4e934d94b52b432d9e3f17c,0
-components\shoulder\V1.0\assm\shoulder_motor_gear_arm.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm\shoulder_motor_gear_arm.SLDASM,6757289,1761779108.2889798,77af40d9f6f40ad7501e15202cb240e8,0
-components\shoulder\V1.0\assm\shoulder_nema_with_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm\shoulder_nema_with_gearbox.SLDASM,6901668,1762381554.0731766,fbb1e0e59e1a39225d801143cb220f94,0
-components\shoulder\V1.0\assm\tube.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\assm\tube.SLDPRT,113159,1762032353.7679598,c93d7dd3280db9e823d397d325127f4a,0
-components\shoulder\V1.0\equations\equations.txt,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\equations\equations.txt,26,1762983762.6879952,0fd09e4b0b5a4f378e5340b04700925b,0
-components\shoulder\V1.0\parts\EG34-G10.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\EG34-G10.STEP,2261575,1761427232.05609,ef4dd62a349485b1ea47f66ef56a083d,0
-components\shoulder\V1.0\parts\elbow_key_extender_v3.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\elbow_key_extender_v3.SLDPRT,117387,1763661904.2269292,ce419aea55fdb9a5878c1ac1ea99e1ac,0
-components\shoulder\V1.0\parts\nema_34_pin.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\nema_34_pin.SLDPRT,62247,1762027341.2128773,dfdf2c82451360a1efd87d472d3dee4a,0
-components\shoulder\V1.0\parts\nema_bracket.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\nema_bracket.STEP,457450,1762029815.3761592,f09737657a9cb00070d82b4627c9a9f4,0
-components\shoulder\V1.0\parts\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\components\shoulder\V1.0\parts\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,887064,1761779850.4554026,65188e63f216b253e294186739196802,0
-COTS\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\COTS\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,887064,1761779850.4554026,65188e63f216b253e294186739196802,0
-legacy\old claw\15TGear3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\15TGear3DP.STL,213384,1762637237.9579327,1af553a1f7156aa18fd6355e1462bf76,0
-legacy\old claw\15TGear3DThinP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\15TGear3DThinP.STL,92984,1762637237.746377,7b5775a5e325ea27e801e0dd42691688,0
-legacy\old claw\2664N22_Metal Gear - 20 Degree Pressure Angle.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\2664N22_Metal Gear - 20 Degree Pressure Angle.SLDPRT,506811,1762637237.9829338,e879f560ec7980707bbab7328762b2f9,0
-legacy\old claw\2664N26_Metal Gear - 20 Degree Pressure Angle (2).SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\2664N26_Metal Gear - 20 Degree Pressure Angle (2).SLDPRT,657305,1762637238.0584404,dfa3a23e5238ad8670c898627c2f96fb,0
-legacy\old claw\2664N26_Metal Gear - 20 Degree Pressure Angle.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\2664N26_Metal Gear - 20 Degree Pressure Angle.SLDPRT,660859,1762637238.1659496,a4ccd57bf8ff8e05adb616aff9f6069b,0
-legacy\old claw\45TGear3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\45TGear3DP.STL,308884,1762637238.7352684,0f13c2d68f09cd4fc9b381779a2566be,0
-legacy\old claw\45TGear3DPThin.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\45TGear3DPThin.STL,213284,1762637239.3023016,c075419fde948e04d2d9199831a70f54,0
-legacy\old claw\5905K75_Needle-Roller Bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\5905K75_Needle-Roller Bearing.SLDPRT,263520,1762637239.6067808,9643cc3a6240c19de88bdccf34c716d1,0
-legacy\old claw\90967A175_External Retaining Ring.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\90967A175_External Retaining Ring.SLDPRT,287569,1762637239.490525,7148c688bb46ec70d4dc6ca7f88d62e9,0
-legacy\old claw\BearingConstraintPlateGearbox.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\BearingConstraintPlateGearbox.SLDPRT,196678,1762637239.4995258,9c10c11983b14d8cf3fd7b24d57f26b0,0
-legacy\old claw\BearingConstraintPlateGearbox3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\BearingConstraintPlateGearbox3DP.STL,39484,1762637239.8207946,f254700dfdbe699309ccd81ba63fddb2,0
-legacy\old claw\Bottom Bearing Constraint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Bottom Bearing Constraint.SLDPRT,225211,1762637239.785853,ca25d4c594f4b4a94d518b6f0706f955,0
-legacy\old claw\Bottom Bearing Constraint.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Bottom Bearing Constraint.STL,48684,1762637240.542816,28fab655228f712feab4726eed8f133d,0
-legacy\old claw\Camera Mount without Camera.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Camera Mount without Camera.SLDPRT,184799,1762637240.7590563,cd9902bed49bb75e929a977195c16a36,0
-legacy\old claw\Camera Mount without Camera.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Camera Mount without Camera.STL,40284,1762637240.440791,050e31a9a60c19264623d5383955a0ea,0
-legacy\old claw\Camera Mount.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Camera Mount.SLDPRT,199288,1762637241.3237631,d2aebeac64e88f4020050446675c910b,0
-legacy\old claw\Claw Assembly V2.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Assembly V2.SLDASM,2843949,1762637241.486794,e356671b3bfc13dd1a4ab9ba7d919de4,0
-legacy\old claw\Claw Assembly1.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Assembly1.SLDASM,9043957,1762637241.8372757,5c741d27e01692b054b636e05086635f,0
-legacy\old claw\Claw Drive Shaft.pdf,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Drive Shaft.pdf,35885,1762637241.219245,af45fe565bc2840ab3e293dc4abf9682,0
-legacy\old claw\Claw Drive Shaft.SLDDRW,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Drive Shaft.SLDDRW,132504,1762637241.3207633,878d958de67d6f39828ea73034d9ce18,0
-legacy\old claw\Claw Drive Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Drive Shaft.SLDPRT,237510,1762637242.1131766,3a5d80e5c8c73472b63a0e8d4b17ce9f,0
-legacy\old claw\Claw Master Model.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Master Model.SLDPRT,115907,1762637241.8927484,e402c1215ed415e114645b3bde3ca988,0
-legacy\old claw\Claw Mirror.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Mirror.SLDPRT,148240,1762637242.125178,2d4c8f26ab54b0377b3999199dc4b3cc,0
-legacy\old claw\Claw Plate NO HOLES.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate NO HOLES.SLDPRT,190183,1762637242.728726,8c556b5ddf84f13649ce1db3ab06119d,0
-legacy\old claw\Claw Plate Standoff.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate Standoff.SLDPRT,82296,1762637242.825236,07aabfee20b9d990b1aa2634acc66efe,0
-legacy\old claw\Claw Plate Standoff.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate Standoff.STEP,18547,1762637242.5772247,47ec5443a3908dec69eec1a02a7445e1,0
-legacy\old claw\Claw Plate V2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate V2.STEP,154832,1762637243.106774,20ba5d2c733648755ae9f137acfe7e4b,0
-legacy\old claw\Claw Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate.SLDPRT,187774,1762637243.2896476,fb17ea9be59dba9e8c2b63c2d3b430b5,0
-legacy\old claw\Claw Plate.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plate.STEP,87721,1762637243.0687733,a2b439d4547b5f3af80de2cf9827407c,0
-legacy\old claw\Claw PlateHOLEDFORWIRE.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw PlateHOLEDFORWIRE.STEP,108089,1762637243.361157,517a4f9ee0a6b8394309d818d5eefbbc,0
-legacy\old claw\Claw Plates V3 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Plates V3 3DP.STL,197184,1762637243.6696186,6724fbc63e0c0c44aa70053868ef69f1,0
-legacy\old claw\Claw Spacer 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Spacer 3DP.STL,100684,1762637244.0671017,5216b489d4c95b83741e645cd29872a4,0
-legacy\old claw\Claw Spacer V2 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Spacer V2 3DP.STL,110084,1762637243.9745908,d7a95cf3c461f404dd8212d5115a2841,0
-legacy\old claw\Claw Top Bottom Side Plates & Standoffs V2.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Top Bottom Side Plates & Standoffs V2.SLDPRT,321387,1762637244.158104,bbfd72e4a0b1fb43287f351e4e116fd5,0
-legacy\old claw\Claw Top Bottom Side Plates & Standoffs without bottom guard plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Top Bottom Side Plates & Standoffs without bottom guard plate.SLDPRT,287240,1762637245.3904243,75fbfb48e9ca7bbcee14b8894ec17079,0
-legacy\old claw\Claw Top Bottom Side Plates & Standoffs.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw Top Bottom Side Plates & Standoffs.SLDPRT,328349,1762637244.580401,04c1fb8582b0bb9a0cc5d96ed9df9b36,0
-legacy\old claw\Claw.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw.SLDPRT,143158,1762637244.823853,b12cab67adbb07636e3cbc5676cc1e2f,0
-legacy\old claw\Claw.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Claw.STEP,51400,1762637244.8725593,9ee26b9137c026ace0121ffd22c9c3f5,0
-legacy\old claw\Coupler.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Coupler.SLDASM,2296146,1762637245.2303853,d6303829314fb38afc20af33594d6ee9,0
-legacy\old claw\Coupler.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Coupler.STEP,7427566,1762637246.6674695,dd0b8cb91ec25560af95cfc8218d84a8,0
-legacy\old claw\DBoreConnectorPlate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\DBoreConnectorPlate.SLDPRT,99167,1762637245.6502817,c132199c29e9aebd21e8c928bfb9b682,0
-legacy\old claw\Final Claw Plates 3DP V4.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Final Claw Plates 3DP V4.STL,233484,1762637245.6312864,aab1aab30c5abf08163dea14b9a6d807,0
-legacy\old claw\Final Claw Plates 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Final Claw Plates 3DP.STL,233484,1762637246.1626732,c8490f367c6c148b67d823bd477043bf,0
-legacy\old claw\Front Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Front Plate.SLDPRT,127830,1762637246.2871845,a1ff76750d87bee60b8f301812694b22,0
-legacy\old claw\GEAR.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GEAR.SLDPRT,1210648,1762637246.5584593,b8a19a5a9a392bc83e89d9058b8fc2fc,0
-legacy\old claw\GEAR.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GEAR.STEP,2992733,1762637247.3469179,d9b637ddbb6236484e0decd3cd7a2e81,0
-legacy\old claw\Gearbox Standoff.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Gearbox Standoff.SLDPRT,46485,1762637246.966433,971c1847ba25a09e393dc6bd17b9732b,0
-legacy\old claw\GearboxAssembly.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxAssembly.SLDASM,1539096,1762637247.472877,5cf9b3464c6223375c603b488823828d,0
-legacy\old claw\GearboxPlate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxPlate.SLDPRT,285614,1762637247.0439496,66e58fc32cf8e860cb0197c5d3f154bd,0
-legacy\old claw\GearboxPlateNonMotorSide.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxPlateNonMotorSide.SLDPRT,97588,1762637247.762955,960dadb5b2da8d08c944cb495e33520b,0
-legacy\old claw\GearboxPlates3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxPlates3DP.STL,224984,1762637247.9134622,30eb0e5c476c6a95ef438fc465b5ad32,0
-legacy\old claw\GearboxPlates3DPV2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxPlates3DPV2.STL,310084,1762637248.0219722,39350b6b8203ba93bee8fd8e46b36bd3,0
-legacy\old claw\GearboxSpace4r.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxSpace4r.SLDPRT,88353,1762637247.9414628,5a0ec8fbace7fd1d6b82beb22405ee38,0
-legacy\old claw\GearboxSpaceer3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxSpaceer3DP.STL,21684,1762637248.2099893,84b726c1e0384786cfdcf4e409ad7717,0
-legacy\old claw\GearboxSpacer3DPThick.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxSpacer3DPThick.STL,21284,1762637248.2049868,c89b0b3cbc8877f8d1f8e52cf6eb1203,0
-legacy\old claw\GearboxSpacer3DPV2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxSpacer3DPV2.STL,21684,1762637249.1195817,30e5c279ad9148f80548b0cd9847527e,0
-legacy\old claw\GearboxSpacerThicker.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\GearboxSpacerThicker.SLDPRT,90999,1762637249.008787,fc1964b244e5b9511b0452126a31addc,0
-legacy\old claw\L-Bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\L-Bracket.SLDPRT,42938,1762637248.7496536,16fc927e2cfa56d5bc1de3eaf1e99df7,0
-legacy\old claw\LBRACKET.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\LBRACKET.SLDPRT,132626,1762637249.4870918,e17767bd59ef3fda712b1f4024ca8924,0
-legacy\old claw\Motor Block.SLDBLK,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Motor Block.SLDBLK,29365,1762637249.807142,20a2eeaa00a4c921a76de80f4caf3939,0
-legacy\old claw\Motor Casing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Motor Casing.SLDPRT,313920,1762637249.644126,5d33909f64f3648fdea0f08fe4db04f7,0
-legacy\old claw\New Claw 3DP V2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\New Claw 3DP V2.STL,28284,1762637249.4297035,ca16b11d69642afd38e64a6f6712da3a,0
-legacy\old claw\New Claw 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\New Claw 3DP.STL,28284,1762637249.3591936,1688f18f0849f096c7d2940c9e3c9690,0
-legacy\old claw\New Claw Mirror 3DP V2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\New Claw Mirror 3DP V2.STL,28284,1762637249.9888945,e110d81367b4370777509b4f28789719,0
-legacy\old claw\New Claw Mirror 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\New Claw Mirror 3DP.STL,28284,1762637250.4111354,298f6ad4ce567ffe5dc4a1165e1e4673,0
-legacy\old claw\New Claw Plates 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\New Claw Plates 3DP.STL,207084,1762637250.5285065,2c3544fe3a8c0ce8603540e9a8994bf8,0
-legacy\old claw\NewGearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\NewGearbox.SLDASM,913350,1762637251.1932375,54d5e6255bed99c7635e17d2dc0af89d,0
-legacy\old claw\Plate-Claw Spacer Top V2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Plate-Claw Spacer Top V2.STEP,15580,1762637250.7211535,756a42a518da654ccdd0c2f13c0901a5,0
-legacy\old claw\Plate-Claw Spacer Top.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Plate-Claw Spacer Top.SLDPRT,142250,1762637250.870888,2ae4a34dcb02e389769fe43e0587aa5c,0
-legacy\old claw\Plate-Claw Spacer Top.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Plate-Claw Spacer Top.STEP,15560,1762637250.8928876,28badd23c748b77a7141126485e3dfae,0
-legacy\old claw\Plate-Claw Spacer.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Plate-Claw Spacer.SLDPRT,106339,1762637251.062438,b4753c98be03cb8354718333c3d336d6,0
-legacy\old claw\Plate-Claw Spacer.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Plate-Claw Spacer.STEP,15578,1762637251.096729,101b1064526798eff165305c642a56c7,0
-legacy\old claw\Pupper motor case v2.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Pupper motor case v2.SLDPRT,281282,1762637251.8220308,55efdbdb0d59d302916e07887afea772,0
-legacy\old claw\Pupper motor case v2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Pupper motor case v2.STEP,306441,1762637252.0476618,40574e22a8e2ff9005a9e65c371eb517,0
-legacy\old claw\Pupper motor case v3.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Pupper motor case v3.STEP,281021,1762637252.2125382,29cd74ccf5cbc4d6f57236591bd92018,0
-legacy\old claw\RoboMaster M2006 P36.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\RoboMaster M2006 P36.SLDPRT,8043611,1762637253.1123416,7b59a7fe1230bf865ba84fb3851f668f,0
-legacy\old claw\Rotating Wrist Master Model.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Rotating Wrist Master Model.SLDPRT,67876,1762637252.152195,fa9f77ddb91a2680740e35e4405a7898,0
-legacy\old claw\Servo.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Servo.SLDPRT,153900,1762637252.6021292,8ad0280a1652c5f5d1de9db8efd9038b,0
-legacy\old claw\Spacer for Claw & Claw Plate V2 cutout for screw heads.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Spacer for Claw & Claw Plate V2 cutout for screw heads.SLDPRT,186494,1762637252.6261346,14d7a7c9f30b6b285d04ba18ff06edb4,0
-legacy\old claw\Spacer for Claw & Claw Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Spacer for Claw & Claw Plate.SLDPRT,159295,1762637252.5811138,cada87f78a7850a224805771c4fc7606,0
-legacy\old claw\Through Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Through Shaft.SLDPRT,209349,1762637253.5651808,2449f015593da9450576ea9c2a492a20,0
-legacy\old claw\Top Bearing Constraint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Top Bearing Constraint.SLDPRT,254731,1762637253.5682147,1d93e0072c99ef42fe1febf12c83d231,0
-legacy\old claw\Top Bearing Constraint.STL,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Top Bearing Constraint.STL,47884,1762637253.437376,0786b170ad387da84edc8b4df4e83493,0
-legacy\old claw\Worm Gear Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\Worm Gear Shaft.SLDPRT,59166,1762637253.4163675,9444c187e28f236689786724f17dbb91,0
-legacy\old claw\WORM GEAR.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\WORM GEAR.SLDASM,1942815,1762637254.911209,338f729e67876c6d6dc71d73ca24e5e5,0
-legacy\old claw\WORM GEAR.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\legacy\old claw\WORM GEAR.STEP,2424401,1762637254.5709834,366d0d9be3b9c16951ba7f6b090c5377,0
+Claw,C:\Users\dylan\Documents\CacheCAD\CAD\Claw,0,1761429440.762396,,1
+elbow,C:\Users\dylan\Documents\CacheCAD\CAD\elbow,0,1762381747.3982995,,1
+shoulder,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder,0,1762029835.603097,,1
+Claw\Old Claw,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw,0,1761429445.3749783,,1
+Claw\Parallel Claw Prototype,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Parallel Claw Prototype,0,1761429442.8086772,,1
+elbow\assm,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\assm,0,1762381749.7120123,,1
+elbow\parts,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts,0,1762382730.9807887,,1
+shoulder\assm,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm,0,1762381698.0816116,,1
+shoulder\equations,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\equations,0,1761779521.8504968,,1
+shoulder\parts,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts,0,1762381698.1358852,,1
+shoulder\parts\fastners,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\fastners,0,1762381696.9966373,,1
+elbow\base_shoulder_elbow.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\base_shoulder_elbow.SLDASM,11415440,1762383490.6649883,85fd77c4e3efd38f5e795561241be872,0
+Claw\Old Claw\15TGear3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\15TGear3DP.STL,213384,1761428944.8668509,1af553a1f7156aa18fd6355e1462bf76,0
+Claw\Old Claw\15TGear3DThinP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\15TGear3DThinP.STL,92984,1761428944.9781759,7b5775a5e325ea27e801e0dd42691688,0
+Claw\Old Claw\2664N22_Metal Gear - 20 Degree Pressure Angle.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\2664N22_Metal Gear - 20 Degree Pressure Angle.SLDPRT,506811,1761428945.159789,e879f560ec7980707bbab7328762b2f9,0
+Claw\Old Claw\2664N26_Metal Gear - 20 Degree Pressure Angle (2).SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\2664N26_Metal Gear - 20 Degree Pressure Angle (2).SLDPRT,657305,1761428944.9981766,dfa3a23e5238ad8670c898627c2f96fb,0
+Claw\Old Claw\2664N26_Metal Gear - 20 Degree Pressure Angle.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\2664N26_Metal Gear - 20 Degree Pressure Angle.SLDPRT,660859,1761428945.1883073,a4ccd57bf8ff8e05adb616aff9f6069b,0
+Claw\Old Claw\45TGear3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\45TGear3DP.STL,308884,1761428944.933181,0f13c2d68f09cd4fc9b381779a2566be,0
+Claw\Old Claw\45TGear3DPThin.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\45TGear3DPThin.STL,213284,1761428944.8781793,c075419fde948e04d2d9199831a70f54,0
+Claw\Old Claw\5905K75_Needle-Roller Bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\5905K75_Needle-Roller Bearing.SLDPRT,264151,1761429442.9006667,5466e49da78a1c5d1cb9c933b9868154,0
+Claw\Old Claw\90967A175_External Retaining Ring.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\90967A175_External Retaining Ring.SLDPRT,287569,1761428946.7694604,7148c688bb46ec70d4dc6ca7f88d62e9,0
+Claw\Old Claw\BearingConstraintPlateGearbox.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\BearingConstraintPlateGearbox.SLDPRT,196678,1761428946.820468,9c10c11983b14d8cf3fd7b24d57f26b0,0
+Claw\Old Claw\BearingConstraintPlateGearbox3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\BearingConstraintPlateGearbox3DP.STL,39484,1761428946.5974007,f254700dfdbe699309ccd81ba63fddb2,0
+Claw\Old Claw\Bottom Bearing Constraint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Bottom Bearing Constraint.SLDPRT,226267,1761429442.8836534,12b8af86af9892742a4efde75c13ae2b,0
+Claw\Old Claw\Bottom Bearing Constraint.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Bottom Bearing Constraint.STL,48684,1761428946.7164621,28fab655228f712feab4726eed8f133d,0
+Claw\Old Claw\Camera Mount without Camera.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Camera Mount without Camera.SLDPRT,184799,1761428947.118822,cd9902bed49bb75e929a977195c16a36,0
+Claw\Old Claw\Camera Mount without Camera.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Camera Mount without Camera.STL,40284,1761428946.8564632,050e31a9a60c19264623d5383955a0ea,0
+Claw\Old Claw\Camera Mount.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Camera Mount.SLDPRT,200713,1761429442.8886552,28c070b7307638c0168434156a8be5b6,0
+Claw\Old Claw\Claw Assembly V2.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Assembly V2.SLDASM,2849520,1761429443.066221,f339488c75483a1132f8cd690180aa84,0
+Claw\Old Claw\Claw Assembly1.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Assembly1.SLDASM,9043957,1761428949.7043514,5c741d27e01692b054b636e05086635f,0
+Claw\Old Claw\Claw Drive Shaft.pdf,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Drive Shaft.pdf,35885,1761428948.4680974,af45fe565bc2840ab3e293dc4abf9682,0
+Claw\Old Claw\Claw Drive Shaft.SLDDRW,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Drive Shaft.SLDDRW,132504,1761428948.7971575,878d958de67d6f39828ea73034d9ce18,0
+Claw\Old Claw\Claw Drive Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Drive Shaft.SLDPRT,239202,1761429442.8646486,8826dc482b119f6be3e11230de43284f,0
+Claw\Old Claw\Claw Master Model.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Master Model.SLDPRT,115907,1761428948.65916,e402c1215ed415e114645b3bde3ca988,0
+Claw\Old Claw\Claw Mirror.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Mirror.SLDPRT,148864,1761429442.8586407,5e5786e2908721ecef54c509ceee93ca,0
+Claw\Old Claw\Claw Plate NO HOLES.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate NO HOLES.SLDPRT,190183,1761428949.0050433,8c556b5ddf84f13649ce1db3ab06119d,0
+Claw\Old Claw\Claw Plate Standoff.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate Standoff.SLDPRT,82296,1761428950.0798423,07aabfee20b9d990b1aa2634acc66efe,0
+Claw\Old Claw\Claw Plate Standoff.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate Standoff.STEP,18547,1761428950.309733,47ec5443a3908dec69eec1a02a7445e1,0
+Claw\Old Claw\Claw Plate V2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate V2.STEP,154832,1761428950.472136,20ba5d2c733648755ae9f137acfe7e4b,0
+Claw\Old Claw\Claw Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate.SLDPRT,187774,1761428950.6983254,fb17ea9be59dba9e8c2b63c2d3b430b5,0
+Claw\Old Claw\Claw Plate.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plate.STEP,87721,1761428950.727329,a2b439d4547b5f3af80de2cf9827407c,0
+Claw\Old Claw\Claw PlateHOLEDFORWIRE.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw PlateHOLEDFORWIRE.STEP,108089,1761428951.3380256,517a4f9ee0a6b8394309d818d5eefbbc,0
+Claw\Old Claw\Claw Plates V3 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Plates V3 3DP.STL,197184,1761428950.8413262,6724fbc63e0c0c44aa70053868ef69f1,0
+Claw\Old Claw\Claw Spacer 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Spacer 3DP.STL,100684,1761428951.3083296,5216b489d4c95b83741e645cd29872a4,0
+Claw\Old Claw\Claw Spacer V2 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Spacer V2 3DP.STL,110084,1761428951.6280718,d7a95cf3c461f404dd8212d5115a2841,0
+Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs V2.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs V2.SLDPRT,321387,1761428951.9295943,bbfd72e4a0b1fb43287f351e4e116fd5,0
+Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs without bottom guard plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs without bottom guard plate.SLDPRT,287240,1761428952.2476125,75fbfb48e9ca7bbcee14b8894ec17079,0
+Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw Top Bottom Side Plates & Standoffs.SLDPRT,328764,1761429442.9106853,0e0d4d65ec1e029b1bfca12341943acb,0
+Claw\Old Claw\Claw.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw.SLDPRT,145647,1761429444.6498368,f7057ccb6de0845ee0a55848a27767a3,0
+Claw\Old Claw\Claw.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Claw.STEP,51400,1761428952.1400902,9ee26b9137c026ace0121ffd22c9c3f5,0
+Claw\Old Claw\Coupler.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Coupler.SLDASM,2296146,1761428952.763849,d6303829314fb38afc20af33594d6ee9,0
+Claw\Old Claw\Coupler.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Coupler.STEP,7427566,1761428953.5111117,dd0b8cb91ec25560af95cfc8218d84a8,0
+Claw\Old Claw\DBoreConnectorPlate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\DBoreConnectorPlate.SLDPRT,99167,1761428952.603958,c132199c29e9aebd21e8c928bfb9b682,0
+Claw\Old Claw\Final Claw Plates 3DP V4.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Final Claw Plates 3DP V4.STL,233484,1761428953.8863814,aab1aab30c5abf08163dea14b9a6d807,0
+Claw\Old Claw\Final Claw Plates 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Final Claw Plates 3DP.STL,233484,1761428953.8953807,c8490f367c6c148b67d823bd477043bf,0
+Claw\Old Claw\Front Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Front Plate.SLDPRT,127830,1761428954.0095344,a1ff76750d87bee60b8f301812694b22,0
+Claw\Old Claw\GEAR.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GEAR.SLDPRT,1210905,1761429445.2209797,7b67cc54f3da0fc7592c3f91e40f3282,0
+Claw\Old Claw\GEAR.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GEAR.STEP,2992733,1761428954.470109,d9b637ddbb6236484e0decd3cd7a2e81,0
+Claw\Old Claw\Gearbox Standoff.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Gearbox Standoff.SLDPRT,46485,1761428954.145104,971c1847ba25a09e393dc6bd17b9732b,0
+Claw\Old Claw\GearboxAssembly.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxAssembly.SLDASM,1539096,1761428954.613895,5cf9b3464c6223375c603b488823828d,0
+Claw\Old Claw\GearboxPlate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxPlate.SLDPRT,285614,1761428955.592178,66e58fc32cf8e860cb0197c5d3f154bd,0
+Claw\Old Claw\GearboxPlateNonMotorSide.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxPlateNonMotorSide.SLDPRT,97588,1761428955.729597,960dadb5b2da8d08c944cb495e33520b,0
+Claw\Old Claw\GearboxPlates3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxPlates3DP.STL,224984,1761428955.7826,30eb0e5c476c6a95ef438fc465b5ad32,0
+Claw\Old Claw\GearboxPlates3DPV2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxPlates3DPV2.STL,310084,1761428956.2307622,39350b6b8203ba93bee8fd8e46b36bd3,0
+Claw\Old Claw\GearboxSpace4r.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxSpace4r.SLDPRT,88353,1761428955.8162,5a0ec8fbace7fd1d6b82beb22405ee38,0
+Claw\Old Claw\GearboxSpaceer3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxSpaceer3DP.STL,21684,1761428955.8621979,84b726c1e0384786cfdcf4e409ad7717,0
+Claw\Old Claw\GearboxSpacer3DPThick.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxSpacer3DPThick.STL,21284,1761428956.26587,c89b0b3cbc8877f8d1f8e52cf6eb1203,0
+Claw\Old Claw\GearboxSpacer3DPV2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxSpacer3DPV2.STL,21684,1761428956.553418,30e5c279ad9148f80548b0cd9847527e,0
+Claw\Old Claw\GearboxSpacerThicker.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\GearboxSpacerThicker.SLDPRT,90999,1761428957.2095714,fc1964b244e5b9511b0452126a31addc,0
+Claw\Old Claw\L-Bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\L-Bracket.SLDPRT,42938,1761428957.3749115,16fc927e2cfa56d5bc1de3eaf1e99df7,0
+Claw\Old Claw\LBRACKET.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\LBRACKET.SLDPRT,132626,1761428957.5712867,e17767bd59ef3fda712b1f4024ca8924,0
+Claw\Old Claw\Motor Block.SLDBLK,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Motor Block.SLDBLK,29365,1761428957.442286,20a2eeaa00a4c921a76de80f4caf3939,0
+Claw\Old Claw\Motor Casing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Motor Casing.SLDPRT,313920,1761428957.7070422,5d33909f64f3648fdea0f08fe4db04f7,0
+Claw\Old Claw\New Claw 3DP V2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\New Claw 3DP V2.STL,28284,1761428957.993752,ca16b11d69642afd38e64a6f6712da3a,0
+Claw\Old Claw\New Claw 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\New Claw 3DP.STL,28284,1761428962.8849416,1688f18f0849f096c7d2940c9e3c9690,0
+Claw\Old Claw\New Claw Mirror 3DP V2.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\New Claw Mirror 3DP V2.STL,28284,1761428958.2971983,e110d81367b4370777509b4f28789719,0
+Claw\Old Claw\New Claw Mirror 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\New Claw Mirror 3DP.STL,28284,1761428958.7542467,298f6ad4ce567ffe5dc4a1165e1e4673,0
+Claw\Old Claw\New Claw Plates 3DP.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\New Claw Plates 3DP.STL,207084,1761428959.0068965,2c3544fe3a8c0ce8603540e9a8994bf8,0
+Claw\Old Claw\NewGearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\NewGearbox.SLDASM,913350,1761428959.2856653,54d5e6255bed99c7635e17d2dc0af89d,0
+Claw\Old Claw\Plate-Claw Spacer Top V2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Plate-Claw Spacer Top V2.STEP,15580,1761428959.6006134,756a42a518da654ccdd0c2f13c0901a5,0
+Claw\Old Claw\Plate-Claw Spacer Top.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Plate-Claw Spacer Top.SLDPRT,142250,1761428959.3766606,2ae4a34dcb02e389769fe43e0587aa5c,0
+Claw\Old Claw\Plate-Claw Spacer Top.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Plate-Claw Spacer Top.STEP,15560,1761428959.5976148,28badd23c748b77a7141126485e3dfae,0
+Claw\Old Claw\Plate-Claw Spacer.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Plate-Claw Spacer.SLDPRT,106339,1761428959.8033633,b4753c98be03cb8354718333c3d336d6,0
+Claw\Old Claw\Plate-Claw Spacer.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Plate-Claw Spacer.STEP,15578,1761428960.222958,101b1064526798eff165305c642a56c7,0
+Claw\Old Claw\Pupper motor case v2.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Pupper motor case v2.SLDPRT,281282,1761428961.1821642,55efdbdb0d59d302916e07887afea772,0
+Claw\Old Claw\Pupper motor case v2.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Pupper motor case v2.STEP,306441,1761428961.31494,40574e22a8e2ff9005a9e65c371eb517,0
+Claw\Old Claw\Pupper motor case v3.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Pupper motor case v3.STEP,281021,1761428961.2397678,29cd74ccf5cbc4d6f57236591bd92018,0
+Claw\Old Claw\RoboMaster M2006 P36.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\RoboMaster M2006 P36.SLDPRT,8043611,1761428961.9809575,7b59a7fe1230bf865ba84fb3851f668f,0
+Claw\Old Claw\Rotating Wrist Master Model.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Rotating Wrist Master Model.SLDPRT,67876,1761428961.2589386,fa9f77ddb91a2680740e35e4405a7898,0
+Claw\Old Claw\Servo.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Servo.SLDPRT,156198,1761429445.1062858,b313c9342e9325274494837aaf518690,0
+Claw\Old Claw\Spacer for Claw & Claw Plate V2 cutout for screw heads.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Spacer for Claw & Claw Plate V2 cutout for screw heads.SLDPRT,187281,1761429445.2059815,91e6ec78a0db92ec89af4583edd0cddf,0
+Claw\Old Claw\Spacer for Claw & Claw Plate.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Spacer for Claw & Claw Plate.SLDPRT,159295,1761428962.9039416,cada87f78a7850a224805771c4fc7606,0
+Claw\Old Claw\Through Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Through Shaft.SLDPRT,209349,1761428962.9289434,2449f015593da9450576ea9c2a492a20,0
+Claw\Old Claw\Top Bearing Constraint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Top Bearing Constraint.SLDPRT,256108,1761429445.1320055,6a35e2e29008fdb9215b2e6f10fa20d9,0
+Claw\Old Claw\Top Bearing Constraint.STL,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Top Bearing Constraint.STL,47884,1761428963.0755794,0786b170ad387da84edc8b4df4e83493,0
+Claw\Old Claw\Worm Gear Shaft.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\Worm Gear Shaft.SLDPRT,59166,1761428963.1959,9444c187e28f236689786724f17dbb91,0
+Claw\Old Claw\WORM GEAR.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\WORM GEAR.SLDASM,1945573,1761429445.2449799,8c6e0eeb63de02f1d424a887a9b958c4,0
+Claw\Old Claw\WORM GEAR.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Old Claw\WORM GEAR.STEP,2424401,1761428964.0480127,366d0d9be3b9c16951ba7f6b090c5377,0
+Claw\Parallel Claw Prototype\TestSketch.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\Claw\Parallel Claw Prototype\TestSketch.SLDPRT,37689,1761429442.777596,af3a1e081980d8a08dde22a969898715,0
+elbow\assm\elbow_nema_gearbox_bracket.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\assm\elbow_nema_gearbox_bracket.SLDASM,5294807,1762381554.8033242,4266baa5a3df8ae47846a837154fb110,0
+elbow\parts\34E1K-45.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\34E1K-45.STEP,7950001,1762032437.2088861,78eb911c8de84bc21544773f60d343d5,0
+elbow\parts\elbow_ball_bearing.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_ball_bearing.SLDPRT,2797899,1762382378.8863866,3b8b517f70ebe81441bbfab7ee50ff4c,0
+elbow\parts\elbow_bearing_mount.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_bearing_mount.SLDPRT,90342,1762383236.737504,ad68f941b03f6126cfc7c856846230b9,0
+elbow\parts\elbow_cam_joint.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_cam_joint.SLDPRT,128729,1762382548.1799886,787dbb1bb082c77425ad3f4eac2c1e73,0
+elbow\parts\elbow_cam_roughsketch.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_cam_roughsketch.SLDPRT,52813,1762382897.2634065,7805164a81503ecce1664eab176fceda,0
+elbow\parts\elbow_key_extender.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_key_extender.SLDPRT,88073,1762381547.1668334,79b0c1c46a73e5b89a82a0341f475230,0
+elbow\parts\elbow_nema34_4.5.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_nema34_4.5.SLDPRT,4558469,1762032497.3696363,367c3c543f36f05aeecf00d235353d57,0
+elbow\parts\elbow_nema_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_nema_gearbox.SLDASM,1816433,1762381554.510701,3d87c47062f2dd0fd45d4009b09232b8,0
+elbow\parts\elbow_nema_gearbox.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\elbow_nema_gearbox.STEP,2261575,1762032799.398843,ef4dd62a349485b1ea47f66ef56a083d,0
+elbow\parts\nema_bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\elbow\parts\nema_bracket.SLDPRT,303735,1762030117.5174499,cd0ed7130cc1a188ba0516b07854b61e,0
+shoulder\assm\nema_with_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm\nema_with_gearbox.SLDASM,6934936,1762031055.3478436,32d4198f4b2bcb96d3377d4642c6e6c7,0
+shoulder\assm\shoulder_keyhole_prototype.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm\shoulder_keyhole_prototype.SLDPRT,94957,1762037205.1998866,7348ec67f4e934d94b52b432d9e3f17c,0
+shoulder\assm\shoulder_motor_gear_arm.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm\shoulder_motor_gear_arm.SLDASM,6757289,1761779108.2889798,77af40d9f6f40ad7501e15202cb240e8,0
+shoulder\assm\shoulder_nema_with_gearbox.SLDASM,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm\shoulder_nema_with_gearbox.SLDASM,6901668,1762381554.0731766,fbb1e0e59e1a39225d801143cb220f94,0
+shoulder\assm\tube.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\assm\tube.SLDPRT,113159,1762032353.7679598,c93d7dd3280db9e823d397d325127f4a,0
+shoulder\equations\equations.txt,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\equations\equations.txt,26,1761777745.2295194,0fd09e4b0b5a4f378e5340b04700925b,0
+shoulder\parts\34E1K-120.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\34E1K-120.STEP,7980467,1761426213.3682978,ed9cf37dc69af0bac7a0e1177fdeea0f,0
+shoulder\parts\EG34-G10.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\EG34-G10.STEP,2261575,1761427232.05609,ef4dd62a349485b1ea47f66ef56a083d,0
+shoulder\parts\nema_34_pin.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\nema_34_pin.SLDPRT,62247,1762027341.2128773,dfdf2c82451360a1efd87d472d3dee4a,0
+shoulder\parts\nema_bracket.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\nema_bracket.SLDPRT,303735,1762030117.5174499,cd0ed7130cc1a188ba0516b07854b61e,0
+shoulder\parts\nema_bracket.STEP,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\nema_bracket.STEP,457450,1762029815.3761592,f09737657a9cb00070d82b4627c9a9f4,0
+shoulder\parts\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,C:\Users\dylan\Documents\CacheCAD\CAD\shoulder\parts\fastners\91290A242_Alloy Steel Socket Head Screw.SLDPRT,887064,1761779850.4554026,65188e63f216b253e294186739196802,0
