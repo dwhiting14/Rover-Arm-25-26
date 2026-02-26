@@ -1,0 +1,7 @@
+﻿"tube_width"= 1in
+"tube_height"= 2in
+"tube_thickness"= 0.125in
+"D3@Sketch1"="tube_thickness"
+"D1@Boss-Extrude1"="tube_length"
+"D1@Sketch1"="tube_width"
+"D2@Sketch1"="tube_height"
